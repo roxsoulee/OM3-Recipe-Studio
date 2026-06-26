@@ -2,6 +2,8 @@
 
 Independent OM SYSTEM OM-3 Recipe JPG / OM Workspace OES tool for Windows.
 
+Internal build: v1.11.3f_AppIconReplacement
+
 ## What This Is
 
 - A Windows onefile public beta based on independent OM SYSTEM OM-3 testing.
@@ -19,6 +21,7 @@ Independent OM SYSTEM OM-3 Recipe JPG / OM Workspace OES tool for Windows.
 - Display WB from loaded JPG / OES; set WB manually on camera.
 - Custom output folder.
 - Bilingual File / Help menu.
+- Updated application / EXE icon.
 
 ## Important Notes
 
