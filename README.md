@@ -2,7 +2,7 @@
 
 Independent OM SYSTEM OM-3 Recipe JPG / OM Workspace OES tool for Windows.
 
-Internal build: v1.11.3f_AppIconReplacement
+Internal build: v1.11.3g_CleanFrameLabels
 
 ## What This Is
 
@@ -12,16 +12,23 @@ Internal build: v1.11.3f_AppIconReplacement
 
 ## Features
 
-- Color Recipe editing with 12 Color Profile nodes.
-- Mono Recipe editing.
+- Color Recipe editing with 12 Color Profile node sliders.
+- Mono Recipe editing with filter, tone, color, grain, and shading controls.
 - Open OM-3 Recipe JPG and backfill parameters.
 - Export Recipe JPG.
 - Import / export OM Workspace `.oes` recipe files.
-- Load preview image.
+- Load preview image and compare before / after preview.
 - Display WB from loaded JPG / OES; set WB manually on camera.
 - Custom output folder.
 - Bilingual File / Help menu.
 - Updated application / EXE icon.
+- Cleaner Color / Mono UI without engineering-style frame labels.
+
+## User Guide
+
+See the PDF attached in the GitHub Release:
+
+- `OM3_Recipe_Studio_v0_9_User_Guide_zh-TW.pdf`
 
 ## Important Notes
 
@@ -38,6 +45,12 @@ Download the Windows ZIP from GitHub Releases:
 
 - `OM3_Recipe_Studio_v0_9_Public_Beta_Windows.zip`
 
+SHA256:
+
+```text
+5F899B99D6F22AD6C091F84B0F0DAB027CDD24CEE3C0084A1DA3D6C96AF3F2E0  OM3_Recipe_Studio_v0_9_Public_Beta_Windows.zip
+```
+
 ## Bug Reports
 
 Please include:
@@ -50,7 +63,7 @@ Please include:
 
 ## Copyright
 
-© 2026 ROXSOUL LEE. All rights reserved.
+Copyright 2026 ROXSOUL LEE. All rights reserved.
 
 This tool is not affiliated with, endorsed by, or supported by OM Digital Solutions, OM SYSTEM, Olympus, or OM Workspace.
 
