@@ -4,10 +4,10 @@ Release URL:
 https://github.com/roxsoulee/OM3-Recipe-Studio/releases/tag/v0.9-public-beta
 
 Internal build:
-v1.11.3g_CleanFrameLabels
+v1.11.3i_ImportDialogTitleCleanup
 
 SHA256:
-5F899B99D6F22AD6C091F84B0F0DAB027CDD24CEE3C0084A1DA3D6C96AF3F2E0
+ECAE9A7C41162CC6985E4DC2C54AC77BC4C876197EEE28CF8AF4DBE57D3AB924
 
 I made an independent Windows tool for OM SYSTEM OM-3 users who want to edit, inspect, and exchange manual Color / Mono recipes.
 

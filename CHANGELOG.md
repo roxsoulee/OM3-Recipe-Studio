@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.9 Public Beta / Internal v1.11.3g
+## v0.9 Public Beta / Internal v1.11.3i
 
 - Public Windows onefile beta package.
 - Recipe JPG open/export.
@@ -14,4 +14,8 @@
 - Updated application icon, EXE icon, and desktop shortcut icon support.
 - Cleaned public UI frame labels for Color / Mono panels.
 - Removed engineering-style Effective status text from Mono Filter UI.
+- Unified Recipe JPG and OES import result popup.
+- Import popup now uses the imported filename as the main title.
+- Removed green import status title / VERIFIED label from import popup.
+- Kept WB display and bilingual manual-WB reminder.
 - Public package contains only EXE + OUTPUT.
