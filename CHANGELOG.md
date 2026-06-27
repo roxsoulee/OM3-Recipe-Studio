@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.9 Public Beta / Internal v1.11.3i
+## v0.9 Public Beta / Internal v1.11.3j
 
 - Public Windows onefile beta package.
 - Recipe JPG open/export.
@@ -18,4 +18,7 @@
 - Import popup now uses the imported filename as the main title.
 - Removed green import status title / VERIFIED label from import popup.
 - Kept WB display and bilingual manual-WB reminder.
+- Unified app-owned dialog titlebar icons.
+- Replaced app-owned message/input dialogs with icon-aware dialogs where needed.
+- Save Preset, Export Recipe JPG, Recipe JPG import, OES import, About, startup, and app-owned warning/info dialogs now share the same app icon.
 - Public package contains only EXE + OUTPUT.

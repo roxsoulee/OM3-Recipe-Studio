@@ -2,7 +2,7 @@
 
 Independent OM SYSTEM OM-3 Recipe JPG / OM Workspace OES tool for Windows.
 
-Internal build: v1.11.3i_ImportDialogTitleCleanup
+Internal build: v1.11.3j_UnifiedWindowIcons
 
 ## What This Is
 
@@ -26,6 +26,8 @@ Internal build: v1.11.3i_ImportDialogTitleCleanup
 - Unified Recipe JPG / OES import result popup.
 - Import popup now uses the imported filename as the main title.
 - Removed engineering-style import status labels from popup.
+- Unified titlebar icon across app-owned dialogs and popups.
+- Save Preset / Export Recipe JPG / import dialogs now use the same app icon.
 
 ## User Guide
 
@@ -51,7 +53,7 @@ Download the Windows ZIP from GitHub Releases:
 SHA256:
 
 ```text
-ECAE9A7C41162CC6985E4DC2C54AC77BC4C876197EEE28CF8AF4DBE57D3AB924  OM3_Recipe_Studio_v0_9_Public_Beta_Windows.zip
+DA17161B3ABA14F111F112B6EFA604DC0E96C27A4940F8BBF19BA58DFF65B6F2  OM3_Recipe_Studio_v0_9_Public_Beta_Windows.zip
 ```
 
 ## Bug Reports

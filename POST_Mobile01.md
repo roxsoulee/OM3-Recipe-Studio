@@ -3,11 +3,11 @@
 Release URL:
 https://github.com/roxsoulee/OM3-Recipe-Studio/releases/tag/v0.9-public-beta
 
-Internal build:
-v1.11.3i_ImportDialogTitleCleanup
+Internal build: v1.11.3j_UnifiedWindowIcons
 
-SHA256:
-ECAE9A7C41162CC6985E4DC2C54AC77BC4C876197EEE28CF8AF4DBE57D3AB924
+SHA256: DA17161B3ABA14F111F112B6EFA604DC0E96C27A4940F8BBF19BA58DFF65B6F2
+
+本版已統一程式內各彈出視窗的圖示。
 
 這是一個獨立製作的 Windows 工具，目標是幫 OM SYSTEM OM-3 使用者整理、測試與交換手動 recipe。它不是 OM SYSTEM / OM Digital Solutions / Olympus / OM Workspace 官方工具。
 

@@ -3,11 +3,11 @@
 Release URL:
 https://github.com/roxsoulee/OM3-Recipe-Studio/releases/tag/v0.9-public-beta
 
-Internal build:
-v1.11.3i_ImportDialogTitleCleanup
+Internal build: v1.11.3j_UnifiedWindowIcons
 
-SHA256:
-ECAE9A7C41162CC6985E4DC2C54AC77BC4C876197EEE28CF8AF4DBE57D3AB924
+SHA256: DA17161B3ABA14F111F112B6EFA604DC0E96C27A4940F8BBF19BA58DFF65B6F2
+
+This build also unifies the app icon across app-owned dialogs and popups.
 
 I made an independent Windows tool for OM SYSTEM OM-3 users who want to edit, inspect, and exchange manual Color / Mono recipes.
 
