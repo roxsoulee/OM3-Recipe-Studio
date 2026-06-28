@@ -3,9 +3,11 @@
 Release URL:
 https://github.com/roxsoulee/OM3-Recipe-Studio/releases/tag/v0.9-public-beta
 
-Internal build: v1.11.3j_UnifiedWindowIcons
+Internal build: v1.11.3l_ExportOESDialogEncodingFix
 
-SHA256: DA17161B3ABA14F111F112B6EFA604DC0E96C27A4940F8BBF19BA58DFF65B6F2
+SHA256: B2312BE63651A46E938B9311886E3329FAF0B9B8D52AA6B301B56980609D8A43
+
+本版補上 OES 匯出的重新命名流程，並修正 OES 匯出視窗中文亂碼。
 
 本版已統一程式內各彈出視窗的圖示。
 
